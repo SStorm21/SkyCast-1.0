@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+geopy==2.4.1
+Pillow==10.3.0
+pytz==2024.1
+Requests==2.31.0
+timezonefinder==6.5.0
